@@ -5,8 +5,7 @@ A multi-agent content generation system built using Gumloop that automatically c
 
 The agent analyzes reference content, learns its style and structure, generates a complete carousel slide-by-slide, critiques its own output, and improves weak slides before producing the final version.
 
-This project was developed as part of a Generative AI Internship Assignment.
-
+### Gumloop Agent link: https://www.gumloop.com/agents/share/ebHFhqvGfBZfEC8AHNwrvE
 ---
 
 ## Problem Statement
